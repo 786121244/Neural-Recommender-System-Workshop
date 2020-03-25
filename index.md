@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### The NeuRS Wrokshop 2020 
 
 You can use the [editor on GitHub](https://github.com/786121244/neurs.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
